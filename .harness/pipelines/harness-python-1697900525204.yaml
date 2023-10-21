@@ -8,7 +8,7 @@ pipeline:
       codebase:
         build: <+input>
         connectorRef: account.Github
-        repoName: harness-python
+        repoName: jvizuetazivra/harness-python
   stages:
     - stage:
         identifier: build
